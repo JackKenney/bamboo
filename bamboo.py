@@ -13,6 +13,12 @@ It includes functions that manipulate data for specific reasons:
 * fit functions to data
 * renumber data
 * and many others...
+
+Author: Jack Kenney
+Copyright 2018
+MIT License
+
+Version 1.0.0
 """
 import pandas as pd
 import os
