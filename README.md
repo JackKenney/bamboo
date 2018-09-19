@@ -49,4 +49,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Thanks to all the documentors of the libraries used, in particular Pandas.
 * Thanks to A. Geron for some tips, tricks, and explanations in _Hands-On Machine Learning with SciKit-Learn and Tensorflow_.
 * Hat tip to PurpleBooth for the README.md and CONTRIBUTING.md help
-* Thanks to Ed Rietman for pushing me in the direction of using Pandas for Data Science work.
