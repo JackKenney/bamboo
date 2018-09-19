@@ -41,13 +41,13 @@ def cut_extension(fn):
     return retval
 
 
-def not_float(val):
+def is_float(val):
     """Boolean function to say if this value is not a float."""
     try:
         float(val)
-        return False
-    except ValueError:
         return True
+    except ValueError:
+        return False
 
 
 def contains(string, substring):
