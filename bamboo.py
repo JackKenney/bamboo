@@ -134,7 +134,7 @@ def save_data(frame, file_name, path, suffix='', cut_ext=False):
     frame.to_csv(os.path.join(path, name), na_rep='None')
 
 
-def xslx_to_csv(xlsx_name, csv_name, path):
+def xlsx_to_csv(xlsx_name, csv_name, path):
     """Convert file at path from xlsx to csv."""
     # convert to csv
     # setup:
